@@ -1,14 +1,15 @@
 # Elektor's Tiny solar power supply
 
-Este proyecto es una fuente de alimentación programable para protoboard basada en los reguladores lineales **LM7805** y el **LM317** con dos salidas independientes que se pueden programar para sumistrar dos tensiones, 5V o 3.3V.
+Este proyecto consta de un pequeño convertidor elevador (boost) basado en el circuito integrado **AP3015** para generar una salida regulada de 3V3 a partir del voltaje de una batería recargable AA(A).
 
-Su factor de forma y conectores permiten acoplarla con facilidad a la protoboard a través de sus rieles de alimentación superior e inferior.
-La fuente hace uso de dos conectores que se pueden ajustar para que cada salida suministre ya sea una tensión de 5V o de 3.3V de forma independiente para cada salida. 
+Durante el día un panel solar carga la batería y el circuito esta deshabilitado mientras que durante la noche el circuito se activa y la tensión de la batería es elevada hasta los 3V3 para alimentar una tira LED que puede ser empleada para iluminar un jardín durante las noches. 
+
+Este circuito está basado en el proyecto **"Tiny solar power supply"** de Clemens Valens publicado en la revista Elektor. 
 
 ---
 
 <p align="center">
-<img width="1031" height="833" alt="image" src="https://github.com/user-attachments/assets/391c4162-da77-49c6-89fd-02bc1536976d" />
+<img width="1246" height="737" alt="image" src="https://github.com/user-attachments/assets/566ed794-a577-47f9-8cbb-c64ce94f9214" />
 </p>
 
 ---
