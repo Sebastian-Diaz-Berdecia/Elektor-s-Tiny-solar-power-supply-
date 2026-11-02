@@ -1,4 +1,4 @@
-# Elektor-s-Tiny-solar-power-supply-
+# Elektor's Tiny solar power supply
 
 Este proyecto es una fuente de alimentación programable para protoboard basada en los reguladores lineales **LM7805** y el **LM317** con dos salidas independientes que se pueden programar para sumistrar dos tensiones, 5V o 3.3V.
 
