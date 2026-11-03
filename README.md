@@ -42,12 +42,22 @@ Este circuito está basado en el proyecto **"Tiny solar power supply"** de Cleme
 
 - *Esquematico:*
 <p align="center">
-<img width="1256" height="842" alt="image" src="https://github.com/user-attachments/assets/edffd73b-e9d2-481d-81b5-602c0c91d43d" />
+<img width="1794" height="596" alt="image" src="https://github.com/user-attachments/assets/a6eae731-a27b-468d-85ed-c6f818b9532a" />
 </p>
 
 - *Layout a 2 capas:*
 <p align="center">
-<img width="806" height="516" alt="PCB" src="https://github.com/user-attachments/assets/73d5af8d-23a9-4cd6-a8db-8e6396d123ac" />
+<img width="1084" height="547" alt="image" src="https://github.com/user-attachments/assets/5dad75e4-6df2-43fd-a375-4f709b6616e7" />
+</p>
+
+- *Capa 1:*
+<p align="center">
+<img width="1059" height="543" alt="image" src="https://github.com/user-attachments/assets/51af1e81-68c5-43dd-8876-37ecd89fa51a" />
+</p>
+
+- *Capa 2:*
+<p align="center">
+<img width="1069" height="535" alt="image" src="https://github.com/user-attachments/assets/ab06956f-14d7-452f-a954-c6a956b55ae0" />
 </p>
 
 ---
