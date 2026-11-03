@@ -34,16 +34,7 @@ Este circuito está basado en el proyecto **"Tiny solar power supply"** de Cleme
 ## 📄 Documentación 
 
 - [AP3015A](https://www.diodes.com/datasheet/download/AP3015.pdf)  
-- [Tiny solar supply Elektor by Clemens Valens]([https://www.ti.com/lit/ds/symlink/lm317.pdf](https://www.elektormagazine.com/labs/tiny-solar-supply))  
-
----
-
-## 🚀 Estado
-
-- ✅ Diseño esquematico.  
-- ✅ PCB layout (2-layer).  
-- 🔜 Fabricación (pendiente).
-- 🔜 Prototipado y pruebas (pendiente).
+- [Tiny solar supply Elektor by Clemens Valens](https://www.elektormagazine.com/labs/tiny-solar-supply)  
 
 ---
 
@@ -62,16 +53,5 @@ Este circuito está basado en el proyecto **"Tiny solar power supply"** de Cleme
 </p>
 
 *(La idea general es empezar por este layout y esquematico para poco a poco ir intruduciendo mejoras y caracteristicas mas avanzadas asi como tambien mejores capacidades)*
-
----
-
-## 📜 Ideas para futuras mejoras: (Borrador)
-- Usar la configuración programable del LM317 con un NE555 o un ATtyny para controlar la tensión de salida empleando pulsadores. 
-- Usar el regulador lineal de bajo ruido LT3045
-- Transistor de paso externo o en configuración de boost de corriente para suministrar más corriente a la salida.
-- Medicion de corriente y voltaje (Pantalla LCD).
-- Agregar indicadores para señalizar la tensión de salida en uso.
-- Evaluar si mantener las salidas independientes o unificarlas.
-- Para esta versión en particular (v0.1) reemplazar los conectores por jumpers para PCB (como en los programadores de las BIOS).
 
 ---
