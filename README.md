@@ -40,8 +40,6 @@ Este circuito está basado en el proyecto **"Tiny solar power supply"** de Cleme
 
 ## 📷 Preview
 
-*(Add photos, renderings, or thermal plots here when available.)*
-
 - *Esquematico:*
 <p align="center">
 <img width="1256" height="842" alt="image" src="https://github.com/user-attachments/assets/edffd73b-e9d2-481d-81b5-602c0c91d43d" />
@@ -51,7 +49,5 @@ Este circuito está basado en el proyecto **"Tiny solar power supply"** de Cleme
 <p align="center">
 <img width="806" height="516" alt="PCB" src="https://github.com/user-attachments/assets/73d5af8d-23a9-4cd6-a8db-8e6396d123ac" />
 </p>
-
-*(La idea general es empezar por este layout y esquematico para poco a poco ir intruduciendo mejoras y caracteristicas mas avanzadas asi como tambien mejores capacidades)*
 
 ---
