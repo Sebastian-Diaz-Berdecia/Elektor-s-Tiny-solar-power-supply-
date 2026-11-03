@@ -2,7 +2,7 @@
 
 Este proyecto consta de un pequeño convertidor elevador (boost) basado en el circuito integrado **AP3015** para generar una salida regulada de 3V3 a partir del voltaje de una batería recargable AA(A).
 
-Durante el día un panel solar carga la batería y el circuito esta deshabilitado mientras que durante la noche el circuito se activa y la tensión de la batería es elevada hasta los 3V3 para alimentar una tira LED que puede ser empleada para iluminar un jardín durante las noches. 
+Durante el día un panel solar carga la batería y el circuito esta deshabilitado mientras que durante la noche el circuito se activa y la tensión de la batería es elevada hasta los 3V3 para alimentar algún elemento LED decorativo que puede ser empleada para iluminar un jardín durante las noches. 
 
 Este circuito está basado en el proyecto **"Tiny solar power supply"** de Clemens Valens publicado en la revista Elektor. 
 
@@ -16,40 +16,25 @@ Este circuito está basado en el proyecto **"Tiny solar power supply"** de Cleme
 
 ## 🔑 Caracteristicas principales
 
-- **Reguladores lineales LM7805 y LM317**
-  - Alta reparabilidad.
-  - Diseño simple fácil de entender para aficionados.
-  - Tensión limpia sin ruido de conmutación (en contraste a una fuente o regulador conmutado).
-- **Factor de forma**
-  - Ocupa poco espacio y facil de conectar.
-  - Compatible con varios tipos de protoboards.
-  - Plug and play (es una alternativa sencilla a una fuente de laboratorio convencional).
+- **Convertidor DC-DC elevador de micropotencia AP3015A**
+  - Voltaje de entrada bajo: típico 1.0V para el AP3015A.
+  - Corriente de salida máxima de 100mA.
 - **Alimentación**
-  - Se alimenta por medio de un adaptador de 9V a 12V a través de una entrada barrel jack.
-
----
-
-## 📐 Factor de forma
-
-- Tamaño compatible con la mayoria de protoboards.
-- Conexión rapida y directa con los rieles de alimentación de la protoboard. 
+  - Panel solar para cargar la batería durante el día.
+  - Batería recargable AA(A) para encender la luz durante la noche.
 
 ---
 
 ## 🛠 Aplicaciones
 
-- Microntroladores.  
-- Sistemas embebidos.  
-- Circuitos de proposito general de 5V o 3.3V.  
-- Prototipado y pruebas.
-- Alternativa a una fuente de laboratorio convencional.
+- Iluminación nocturna decorativa para jardines.
 
 ---
 
 ## 📄 Documentación 
 
-- [LM7805](https://rocelec.widen.net/view/pdf/hl53fsrf43/FAIR-S-A0000088116-1.pdf?t.download=true&u=5oefqw)  
-- [LM317](https://www.ti.com/lit/ds/symlink/lm317.pdf)  
+- [AP3015A](https://www.diodes.com/datasheet/download/AP3015.pdf)  
+- [Tiny solar supply Elektor by Clemens Valens]([https://www.ti.com/lit/ds/symlink/lm317.pdf](https://www.elektormagazine.com/labs/tiny-solar-supply))  
 
 ---
 
