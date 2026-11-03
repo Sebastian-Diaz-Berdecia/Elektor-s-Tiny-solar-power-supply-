@@ -65,7 +65,7 @@ Este circuito está basado en el proyecto **"Tiny solar power supply"** de Cleme
 <img width="1240" height="633" alt="image" src="https://github.com/user-attachments/assets/a7c3048d-5cf3-4f94-8c69-4c711cb75f2d" />
 </p>
 
-- *Modelo 3D vista posterior*
+- *Modelo 3D vista posterior:*
 <p align="center">
 <img width="1125" height="639" alt="image" src="https://github.com/user-attachments/assets/b25db156-f1bf-40c6-ad62-7a2073ebd4c6" />
 </p>
