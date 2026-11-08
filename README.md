@@ -70,4 +70,8 @@ Este circuito está basado en el proyecto **"Tiny solar power supply"** de Cleme
 <img width="1125" height="639" alt="image" src="https://github.com/user-attachments/assets/b25db156-f1bf-40c6-ad62-7a2073ebd4c6" />
 </p>
 
----
+
+## 📜 License
+
+This project is released under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
