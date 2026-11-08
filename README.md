@@ -2,7 +2,7 @@
 
 Este proyecto consta de un pequeño convertidor elevador (boost) basado en el circuito integrado **AP3015** para generar una salida regulada de 3V3 a partir del voltaje de una batería recargable AA(A).
 
-Durante el día un panel solar carga la batería y el circuito esta deshabilitado mientras que durante la noche el circuito se activa y la tensión de la batería es elevada hasta los 3V3 para alimentar algún elemento LED decorativo que puede ser empleada para iluminar un jardín durante las noches. 
+Durante el día un panel solar carga la batería y el circuito esta deshabilitado mientras que durante la noche el circuito se activa y la tensión de la batería es elevada hasta los 3V3 para alimentar algún elemento LED decorativo que puede ser empleado para iluminar un jardín durante las noches. 
 
 Este circuito está basado en el proyecto **"Tiny solar power supply"** de Clemens Valens publicado en la revista Elektor. 
 
